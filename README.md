@@ -1,9 +1,14 @@
 <!-- Heading -->
-<h1 align = "center"> 👾 Jose Ramirez </h1>
+# 👾 Jose Ramirez
 
-<h2 align = "center"> Software Engineer </h2>
+``` Computer Science Student (Software Engineer) ```
 
-<p align = "center"><a href="https://linkedin.com/in/jramirezpro03><img src="social\linkedin.svg">
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://linkedin.com/in/jramirezpro03/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/JuTA0mE.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  </p>
+
 
 <!-- About Section -->
 I'm an upcoming full-stack developer with developing skills primarily in the front-end development and then in the back-end development. All coding projects are built from the ground up, from the planning stage to fixing bugs here and there. I am willing to create video content explaining my code further so keep an eye on that! 
