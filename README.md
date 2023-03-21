@@ -9,7 +9,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/josexmain/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/unW4Ihl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  </p>
+  <a href="https://dev.to/jramirezdev"><img width="32px" alt="Dev" title="Dev" src="https://i.imgur.com/5wkaknT.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 
 <!-- About Section -->
