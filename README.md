@@ -4,8 +4,10 @@
 ``` Computer Science Student (Software Engineer) ```
 
 <!-- Social Icons -->
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/jramirezpro03/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/JuTA0mE.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/josexmain/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/unW4Ihl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
 
