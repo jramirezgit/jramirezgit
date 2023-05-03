@@ -4,7 +4,7 @@
 ``` Computer Science Student (Software Engineer) ```
 
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=jramirezgit&show_icons=true&theme=dark" />
-<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jramirezgit&layout=compact" />
+<img align = "left" width = "47%" height = "50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jramirezgit&layout=compact" />
 
 
 <!-- Social Icons -->
