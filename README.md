@@ -2,6 +2,7 @@
 # 👾 Jose Ramirez
 
 ``` Computer Science Student (Software Engineer) ```
+
 <img align = "left" width = "47%" height = "250px" src = "https://github-readme-stats.vercel.app/api?username=jramirezgit&show_icons=true&theme=dark" />
 <img align = "left" width = "47%" height = "250px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jramirezgit&layout=compact&theme=dark" />
 
