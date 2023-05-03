@@ -3,6 +3,8 @@
 
 ``` Computer Science Student (Software Engineer) ```
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jramirezgit&show_icons=true&theme=dark)
+
 <!-- Social Icons -->
 <p align="left">
   <a href="https://linkedin.com/in/jramirezpro03/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/JuTA0mE.png"/></a>
