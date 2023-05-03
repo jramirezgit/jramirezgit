@@ -3,8 +3,10 @@
 
 ``` Computer Science Student (Software Engineer) ```
 
-<img align = "left" width = "50%" src = "https://github-readme-stats.vercel.app/api?username=jramirezgit&show_icons=true&theme=dark" />
-<img align = "left" width = "50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jramirezgit&layout=compact&theme=dark" />
+<div>
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?  username=jramirezgit&show_icons=true&theme=dark" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jramirezgit&layout=compact&theme=dark" />
+</div>
 
 
 <!-- Social Icons -->
